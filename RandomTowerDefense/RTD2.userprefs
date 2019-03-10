@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\My\Scirpts\WaveSpawner.cs">
+    <Files>
+      <File FileName="Assets\My\Scirpts\WaveSpawner.cs" Line="21" Column="2" />
+      <File FileName="Assets\My\Scirpts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\StartMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\My\Scirpts\Node.cs" Line="1" Column="1" />
+      <File FileName="Assets\NodeUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\Script\BuildManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\Script\MoneyUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\Script\TurretBlueprint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\Script\Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\Script\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\My\Scirpts\Waypoints.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\Script\LivesUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\Script\PlayerStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Temp\Assets\Script\Bullet.cs" Line="27" Column="10" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
